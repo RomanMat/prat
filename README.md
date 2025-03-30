@@ -3,7 +3,17 @@
 
 **P**ython **R**estful **A**PI **T**emplate.
 
-##
+## Table of contents
+- [prat](#prat)
+  - [Table of contents](#table-of-contents)
+  - [About](#about)
+    - [Built With](#built-with)
+    - [Roadmap](#roadmap)
+  - [How to use](#how-to-use)
+    - [Prerequisites](#prerequisites)
+    - [Steps to run](#steps-to-run)
+  - [Contact](#contact)
+  - [Acknowledgments](#acknowledgments)
 
 <!-- Project Description -->
 ## About
