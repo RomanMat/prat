@@ -27,11 +27,11 @@ A few reasons why are:
 It will not fit all projects. It is just the blueprint for your ideas you can build on and experiment with.
 
 ### Built With
-* [![FastAPI][FastAPI]][FastAPI-url]
-* [![uv][uv]][uv-url]
-* [![Docker][Docker]][Docker-url]
-* [![kind][kind]][kind-url]
-* [![Kubernetes][Kubernetes]][Kubernetes-url]
+* [FastAPI][FastAPI-url]
+* [uv][uv-url]
+* [Docker][Docker-url]
+* [kind][kind-url]
+* [Kubernetes][Kubernetes-url]
 
 
 ### Roadmap
